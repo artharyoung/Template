@@ -56,3 +56,5 @@ public static boolean isValidMobile(String phone) {
     return Patterns.WEB_URL.matcher(url).matches();
   }
 ```
+## 参考
+[Java正则表达式：Pattern类和Matcher类](http://www.cnblogs.com/lonelysharer/archive/2012/03/08/2384773.html)
