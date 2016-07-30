@@ -16,6 +16,7 @@ MDVideo是在Google Study Jams 2016活动第二阶段发起的一个团队协作
 - 总结开发过程中遇到的问题及解决方案，并以Blog的形式分享出来。
 - 熟悉APP的整体开发流程，以及性能调试与测试。
 - 培养良好的代码风格
+
 ## 成员列表（按统计时间排序）
 - [组队招募帖](http://www.studyjamscn.com/thread-14340-1-1.html)
 - [CrazyPudding](https://github.com/crazypudding)
@@ -26,9 +27,12 @@ MDVideo是在Google Study Jams 2016活动第二阶段发起的一个团队协作
 - [Breadykid](https://github.com/BreadKid)
 - [artharyoung](https://github.com/artharyoung)
 - [huangkunkun](https://github.com/huangkunkun)
+
 ## 项目详情
-- [GitHub地址](https://github.com/AndroidTips/MDVideo)
+- [GitHub地址](https://github.com/AndroidTips/MDVideo
+
 <a href='https://play.google.com/store/apps/details?id=com.studyjams.mdvideo&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 ## Google相关技术与服务
 - [Google ExoPlayer](https://github.com/google/ExoPlayer)
 - [Firebase Console](https://console.firebase.google.com/) (core、crash、messaging)
