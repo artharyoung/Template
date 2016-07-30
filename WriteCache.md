@@ -29,7 +29,7 @@ MDVideo是在Google Study Jams 2016活动第二阶段发起的一个团队协作
 - [huangkunkun](https://github.com/huangkunkun)
 
 ## 项目详情
-- [GitHub地址](https://github.com/AndroidTips/MDVideo
+- [GitHub地址](https://github.com/AndroidTips/MDVideo)
 
 <a href='https://play.google.com/store/apps/details?id=com.studyjams.mdvideo&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
